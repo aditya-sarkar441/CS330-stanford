@@ -1,2 +1,2 @@
-# CS330-stanford
-Deep Multitask and meta learning
+# DP301P - ISTP
+ Interactive Socio-Technical Practicum (ISTP)
